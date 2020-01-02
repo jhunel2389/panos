@@ -10,9 +10,11 @@
 // ***********************************								  
 			 
 $("body").backstretch([
-   "img/showcase-5.jpg",
-   "img/showcase-3.jpg",
-   "img/showcase-4.jpg"
+   "resources/img/showcase-2.jpg",
+   "resources/img/showcase-3.jpg",
+   "resources/img/showcase-4.jpg",
+   "resources/img/showcase-5.jpg",
+   "resources/img/showcase-6.jpg"
 ], {duration: 5000, fade: 1000});
 							  
 

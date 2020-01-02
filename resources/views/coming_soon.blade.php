@@ -25,10 +25,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h1 class="soon-logo">Panos Security</h1>
+                    <h1 class="soon-logo text-shadow"><img class="img-banner" src="{{ asset('resources/img/bannerlogo.png')}}"></h1>
                     <div class="soon-info-text">
-                        <h2>Coming soon</h2>
-                        <p class="lead">We are working hard on this website and launch as soon as possible</p>
+                        <h2 class="text-shadow">Coming soon</h2>
+                        <p class="lead text-shadow">We are working hard on this website and launch as soon as possible</p>
                     </div>
                 </div>
             </div><!--intro text row-->
@@ -42,24 +42,21 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center animated fadeInLeft">
-                  
-                    <!-- <form class="form-inline soon-form" role="form">
-                          <h4>Notify me When Website Launch</h4>
-                        <div class="form-group">
-                            <label class="sr-only" for="exampleInputEmail2">Email address</label>
-                            <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Enter your email">
-                        </div>
-                        <a href="index-2.html" class="btn-white-border btn btn-lg">Notify me</a>
-                    </form> -->
+                    <h4 style="font-size: 25px;" class="text-shadow">Contact Us</h4>
+                    <div class="form-group">
+                        <label style="font-size: 20px;" class="text-shadow">Email address: panossecurity@live.com.au</label>
+                        <br>
+                        <label style="font-size: 20px;" class="text-shadow">Mobile: 0404 268 029</label>
+                    </div>
                 </div>
             </div>
         </div>
         <footer id="footer">
-            <!-- <ul class="list-inline soon-social">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-            </ul> -->
+            <ul class="list-inline soon-social">
+                <li><a href="https://www.facebook.com/Panos.GatesnDoors/"><i class="fa fa-facebook"></i></a></li>
+                <!-- <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
+            </ul>
             <span>&copy;2020 | Panos Security</span>
         </footer><!--footer-->
         <!--scripts and plugins -->
